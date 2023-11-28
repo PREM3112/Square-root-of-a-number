@@ -34,7 +34,8 @@ print("Square root of the number:",result)
 
 ## Output:
 ![gcd of two number](gcd.png)
-![Alt text](<Screenshot 2023-11-28 132621.png>)
+![Screenshot 2023-11-28 132621](https://github.com/PREM3112/Square-root-of-a-number/assets/145449383/cc839b63-f6d5-4814-9665-50fc5e988776)
+
 
 
 ## Result:
